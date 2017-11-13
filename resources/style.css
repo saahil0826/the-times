@@ -96,12 +96,11 @@ flex-direction: column;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png");
 }
 
-image-content {
+.image-content {
     display: flex;
     flex-direction: column;
     justify-content: center;
     height: 300px;
-    margin-top: 15px;
     font-family: Georgia;
     font-weight: bold;
     font-size: 30px;
@@ -117,11 +116,6 @@ image-content {
 
 }
 
-.image-content {
-  font-family: Georgia;
-  font-size: 17px;
-  color: black;
-}
 
 div {
 
